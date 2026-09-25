@@ -1,48 +1,38 @@
 # Hi, I'm Abinesh B 👋
 
-## 🚀 About Me
+**Full Stack .NET Developer at Radha AI.** I build AI products end to end, from payment-integrated SaaS features to the data pipelines and developer tools behind them.
 
-- 🎓 **Education:**
-  - Data Science Certification Program, SoftLogics Institute, Chennai (Jul 2024 - Jan 2025)
-  - M.Sc. in Computer Science, Central University of Kerala (Nov 2021 - Sep 2023)
-  - B.Sc. in Communication and Computer Science, Sastra University (Jul 2018 - Aug 2021)
-- 💡 Aspiring Data Scientist with hands-on experience in Python, Machine Learning, Deep Learning, and AI.
-- 💼 Seeking opportunities to apply data-driven decision-making and predictive analytics skills.
-- 📍 Based in Chennai, India, open to opportunities globally.
+🌐 **Portfolio:** [abinesh211-py.github.io](https://abinesh211-py.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/abineshb) · 📫 abineshpcm@gmail.com
+📍 Open to Chennai, Bengaluru or remote · can join within 15 days
 
-## 💻 Skills & Technologies
+---
 
-### Programming:
-- Python, SQL
+## 🚀 What I'm building (Apr 2025 – present)
 
-### Data Science & Machine Learning:
-- Regression, Classification, Clustering (K-Means, PCA), Model Optimization
-- Neural Networks (CNN, RNN, LSTM), Computer Vision, NLP
-- Exploratory Data Analysis (EDA), Feature Engineering, Data Preprocessing
+- **InstructUI**: an AI SaaS that turns prompts and Figma designs into UI code. I built teams & licensing, **Razorpay + Paddle** subscriptions, billing/credits, the live previewer and a click-to-edit property panel *(C#, ASP.NET Core, Blazor, TypeScript)*.
+- **RAG data pipeline**: Playwright scraping of Syncfusion, Angular Material, PrimeNG and FluentUI samples, Markdown→JSON datasets, bottom-up chunking, search and LLM-generated component descriptions *(C#)*.
+- **Antgrid**: an agentic development environment for AI coding agents. I work on session/work-status tracking, push notifications, device pairing, HTTPS preview tunnels and git sync *(Flutter/Dart, TypeScript)*.
 
-### Tools & Frameworks:
-- NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, OpenCV
-- Jupyter Notebook, Google Colab, VS Code, Git, GitHub
+> Most of my day-to-day work lives in private company repositories, so it doesn't show up in this contribution graph.
 
-## 🎯 Current Focus
-- 🛠 Strengthening problem-solving skills in Python
-- 📈 Working on real-world Data Science projects
-- 🎯 Developing AI-driven solutions
-- 🎓 Earning Data Science certifications on LinkedIn Learning
-- 🔍 Preparing for technical interviews and improving professional skills
+## 💻 Tech I use
 
-## 🌟 Featured Projects
-- **[Stock Price Prediction using ML](https://github.com/abinesh211-py/Machine-Learning-projects/tree/main/stockPricePrediction)** - Developed a predictive model using LSTM & Linear Regression, achieving 85% accuracy.
-- **[Fake News Detection using NLP](https://github.com/abinesh211-py/Machine-Learning-projects/tree/main/fakeNewsDetection)** - Built a classifier with Logistic Regression & Random Forest, achieving 94% accuracy.
-- **[Object Detection using OpenCV](#)** - Developed a real-time object detection system using YOLO & SSD models.
-- **[Potato Disease Classification using CNN](#)** - Achieved 90% accuracy with transfer learning for disease detection.
+- **Backend:** C#, ASP.NET Core, Blazor, Entity Framework, LINQ, REST APIs
+- **Frontend & mobile:** Angular, TypeScript, JavaScript, Flutter, Dart, HTML/CSS
+- **AI:** RAG, LLMs, prompt engineering, Playwright automation & scraping
+- **Data & tools:** SQL Server, PostgreSQL, MySQL, Python, Docker, Git, Figma API, Razorpay, Paddle
 
-## 📜 Certifications
-- SQL for Data Science – Simplilearn
-- Basic SQL – HackerRank
-- Python for Data Science – Guvi
-- Python for Data Science – IBM
+## 🧠 Machine learning background
 
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/abineshb)
-- Email: abineshpcm@gmail.com
+- **[Stock Price Prediction](https://github.com/abinesh211-py/Machine-Learning-projects/tree/main/stockPricePrediction)**: LSTM & Linear Regression model, 85% accuracy.
+- **[Fake News Detection (NLP)](https://github.com/abinesh211-py/Machine-Learning-projects/tree/main/fakeNewsDetection)**: Logistic Regression & Random Forest classifier, 94% accuracy.
+- **Object Detection (OpenCV)**: real-time detection with YOLO & SSD.
+- **Potato Disease Classification (CNN)**: transfer learning, 90% accuracy.
+- **Masked Face Recognition (SVM)** and **Chronic Kidney Disease Prediction**: M.Sc. research projects.
+
+## 🎓 Education & certifications
+
+- M.Sc. Computer Science, Central University of Kerala (2021 – 2023)
+- B.Sc. Computer Science, SASTRA University (2018 – 2021)
+- Data Science Certification Program, SoftLogics Institute, Chennai (2024 – 2025)
+- Python for Data Science (Guvi, IBM) · SQL for Data Science (Simplilearn) · Basic SQL (HackerRank) · Introduction to Docker (Simplilearn)
